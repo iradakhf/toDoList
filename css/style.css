@@ -1,0 +1,43 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css);
+.input {
+  width: 100%;
+  outline: 1px solid transparent;
+  border: 1px solid rgb(238, 170, 235);
+  border-radius: 4px;
+}
+
+.toDoListDiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid rgb(233, 194, 200);
+  margin: 2rem 2rem;
+  padding: 0rem 1rem;
+}
+
+.all .clm {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.all .clm input {
+  width: 100%;
+  outline: 1px solid transparent;
+  border: 1px solid rgb(238, 170, 235);
+  border-radius: 4px;
+  padding: 0.2rem 0px 0.2rem 1rem;
+  margin-right: -4rem;
+}
+.all .clm button {
+  border-radius: 4px;
+  color: rgb(238, 170, 235);
+  border: 1px solid transparent;
+  padding: 0.3rem 0.5rem;
+  background-color: antiquewhite;
+}
+.all .clm button:hover {
+  background-color: beige;
+}
+.all .all2 {
+  margin-top: 3rem;
+}/*# sourceMappingURL=style.css.map */
